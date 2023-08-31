@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width"/>
+    <title>Zhanakorgan</title>
+    <link rel="stylesheet" href="css/libs.min.css">
+    <link rel="stylesheet" href="css/all.css">
+    <link rel="stylesheet" href="css/lightgallery.min.css">
+    <link rel="stylesheet" href="css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="slick/slick-theme.css">
+    <link rel="stylesheet" href="slick/slick.css">
+    <link rel="stylesheet" href="css/daterangepicker.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon.ico">
+</head>
+<body>
+<header class="bg-dark-blue">
+    <div class="container">
+        <div class="row">
+            <div class="header">
+                <div class="navbar-header hidden-lg hidden-md">
+                    <button type="button" class="navbar-toggle call-menu">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="logo">
+                    <a href="index.html" class="logo-box">
+                        <img src="img/logo/logo.png" alt="logo">
+                    </a>
+                </div>
+                <div class="nav-mobile bg-dark-blue">
+                    <div class="nav-mobile-top">
+                        <div class="logo visible-xs visible-sm">
+                            <a href="index.html" class="logo-box">
+                                <img src="img/logo/logo.png" alt="logo">
+                            </a>
+                        </div>
+                        <button class="close-menu btn-plain hidden-md hidden-lg">
+                            <img src="img/icon/close.png" alt="">
+                        </button>
+                    </div>
+                    <ul class="m-menu">
+                        <li><a href="index.html">Главная</a></li>
+                        <li><a href="book.html">Бронирование</a></li>
+                        <li><a href="gallery.html">Галерея</a></li>
+                        <li><a href="room.html">Номера</a></li>
+                        <li><a href="about.html">О санатории</a></li>
+                        <li><a href="service.html">Услуги</a></li>
+                        <li><a href="leisure.html">Досуг</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<section class="main-top">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="bg-main">
+                <img src="img/main/main.png" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+<!-- <section class="booking-box">
+    <div class="container">
+        <div class="booking-cover">
+            <form action="#" class="book-form">
+                <div class="book-item">
+                    <span>Дата заезда</span>
+                    <input type="text" name="" class="datetime-picker" value="01/06/2019">
+                </div>
+                <div class="book-item">
+                    <span>Дата заезда</span>
+                    <input type="text" name="" class="datetime-picker" value="05/06/2019">
+                </div>
+                <div class="book-item">
+                    <span>Количество человек</span>
+                    <select name="" class="select-item">
+                        <option>1</option>
+                        <option>1</option>
+                        <option>1</option>
+                    </select>
+                </div>
+                <div class="book-item">
+                    <span>Категория</span>
+                    <select name="" class="select-item">
+                        <option>Люкс</option>
+                        <option>Люкс</option>
+                        <option>Люкс</option>
+                    </select>
+                </div>
+                <button class="btn-plain btn-book">
+                    Забронировать
+                </button>
+            </form>
+        </div>
+    </div>
+</section> -->
+<section class="room-box">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-sm-4">
+                <a href="#">
+                    <div class="room-item">
+                        <div class="room-item-img">
+                            <img src="img/main/Rectangle.png" alt="">
+                        </div>
+                        <div class="room-item-caption">
+                            <h2>
+                                “СТАНДАРТ”
+                                ДВУХМЕСТНЫЙ
+                            </h2>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-4">
+                <a href="#">
+                    <div class="room-item">
+                        <div class="room-item-img">
+                            <img src="img/main/Rectangle%20(1).png" alt="">
+                        </div>
+                        <div class="room-item-caption">
+                            <h2>
+                                “ЛЮКС”
+                                ДВУХМЕСТНЫЙ
+                            </h2>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-4">
+                <a href="#">
+                    <div class="room-item">
+                        <div class="room-item-img">
+                            <img src="img/main/san.png" alt="">
+                        </div>
+                        <div class="room-item-caption">
+                            <h2>
+                                “ЛЕЧЕБНЫЕ
+                                КУРСОВКИ”
+                            </h2>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="treatment-box">
+    <div class="container">
+        <div class="block-cover"><h2 class="block-title-bordered">Информация о пользе лечения</h2></div>
+        <div class="row">
+            <div class="col-md-6 col-sm-6">
+                <div class="treatment-item treatment-item-big bg-grey">
+                    <div class="treatment-item-title">
+                        <img src="img/icon/intestines.png" alt="">
+                        <h3>
+                            Заболевания органов
+                            пищеварения
+                        </h3>
+                    </div>
+                    <div class="treatment-item-caption">
+                        <p>
+                            С 1994 года на территории здравницы пробурена питьевая лечебная минеральная вода,которая
+                            является аналогом минеральной воды источника «Смирновский» — санаторий Железноводска,
+                            применяемая для лечения внутренних зааболеваний и получившая достойную оценку среди
+                            отдыхающих
+                            и больных.Она по состоянию на 2017 год оценивается как соответствующая Государстенному
+                            стандарту Республики Казахстан – СТ РК 452-2002 в статусе минеральной природной лечебно-
+                            столовой питьевой воды.
+                            В природном виде она пригодна для аппликаций без предварительной специальной подготовки на
+                            виброситах или другой очистки,снижающей степень засоренности.
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <div class="treatment-item bg-grey mb30">
+                    <div class="treatment-item-title">
+                        <img src="img/icon/brain.png" alt="">
+                        <h3>
+                            Болезни нервной системы
+                        </h3>
+                    </div>
+                    <div class="treatment-item-caption">
+                        <p>
+                            Обязательным условием перед использованием является удовлетворительное санитарно-
+                            микробиологическое состояние и стабильность физико-химических показателей.
+
+                        </p>
+                    </div>
+                </div>
+                <div class="treatment-item bg-grey">
+                    <div class="treatment-item-title">
+                        <img src="img/icon/kidneys.png" alt="">
+                        <h3>
+                            Профилактика и лечение заболеваний
+                        </h3>
+                    </div>
+                    <div class="treatment-item-caption">
+                        <p>
+                            С 1994 года на территории здравницы пробурена питьевая лечебная минеральная вода,которая
+                            является аналогом минеральной воды источника
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="about-box">
+    <div class="container">
+        <div class="block-cover"><h2 class="block-title-bordered">Информация о санатории</h2></div>
+        <div class="row">
+            <div class="col-md-5 col-sm-5">
+                <div class="about-item">
+                    <div class="about-item-caption">
+                        <p>
+                            Санаторий «Жанакорган» находится в Кызылординской области не далеко от исторического города
+                            Туркестан
+                            на берегу реки Сыр — Дарья и является одним из старейших уникальных грязевых курортов
+                            Казахстана.
+                            В географическом отношении санаторий расположен между рекой
+                            Сыр — Дарья и горы Каратау в районе Кызылординской области с границей ЮКО.
+                            Уже много лет санаторий занимает лидирующее положение среди здравниц Казахстана
+                            по лечению заболеваний
+                            опорно — двигательной системы.
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-7 col-sm-7">
+                <div class="about-item">
+                    <div class="about-item-img">
+                        <img src="img/main/Rectangle%202.png" alt="" class="img-height-400">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row relative-top-40">
+            <div class="col-md-6 col-sm-6">
+                <div class="about-item">
+                    <div class="about-item-img">
+                        <img src="img/main/Rectangle%202.1.png" alt="" class="img-height-384">
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <div class="about-item">
+                    <div class="about-item-caption pt80">
+                        <p>
+                            Санаторий «Жанакорган» находится в Кызылординской области не далеко от исторического города
+                            Туркестан
+                            на берегу реки Сыр — Дарья и является одним из старейших уникальных грязевых курортов
+                            Казахстана.
+                            В географическом отношении санаторий расположен между рекой
+                            Сыр — Дарья и горы Каратау в районе Кызылординской области с границей ЮКО.
+                            Уже много лет санаторий занимает лидирующее положение среди здравниц Казахстана
+                            по лечению заболеваний
+                            опорно — двигательной системы.
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-sm-4">
+                <div class="about-item">
+                    <div class="about-item-caption">
+                        <p>
+                            Санаторий «Жанакорган» находится в Кызылординской области не далеко от исторического города
+                            Туркестан
+                            на берегу реки Сыр — Дарья и является одним из старейших уникальных грязевых курортов
+                            Казахстана.
+                            В географическом отношении санаторий расположен между рекой
+                            Сыр — Дарья и горы Каратау в районе Кызылординской области с границей ЮКО.
+                            Уже много лет санаторий занимает лидирующее положение среди здравниц Казахстана
+                            по лечению заболеваний
+                            опорно — двигательной системы.
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4">
+                <div class="about-item">
+                    <div class="about-item-caption">
+                        <p>
+                            Санаторий «Жанакорган» находится в Кызылординской области не далеко от исторического города
+                            Туркестан
+                            на берегу реки Сыр — Дарья и является одним из старейших уникальных грязевых курортов
+                            Казахстана.
+                            В географическом отношении санаторий расположен между рекой
+                            Сыр — Дарья и горы Каратау в районе Кызылординской области с границей ЮКО.
+                            Уже много лет санаторий занимает лидирующее положение среди здравниц Казахстана
+                            по лечению заболеваний
+                            опорно — двигательной системы.
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4">
+                <div class="about-item">
+                    <div class="about-item-img">
+                        <img src="img/main/Rectangle%202.2.png" alt="" class="img-height-566">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="callback-box bg-mustard">
+    <div class="container">
+        <h2 class="block-title-white">Закажите обратный звонок</h2>
+        <div class="callback-cover">
+            <form action="#" class="callback-form">
+                <input type="text" placeholder="Имя" class="bordered-right">
+                <input type="text" placeholder="Телефон">
+                <button class="btn-plain btn-blue">Отправить</button>
+            </form>
+        </div>
+    </div>
+</section>
+<section class="spec-box">
+    <div class="container">
+        <div class="block-cover"><h2 class="block-title-bordered">Специалисты</h2></div>
+        <div class="sl-spec">
+            <a href="#">
+                <div class="room-item spec-item">
+                    <div class="room-item-img">
+                        <img src="img/main/Rectangle%20(2).png" alt="">
+                    </div>
+                    <div class="room-item-caption">
+                        <h2>
+                            Ахметов Алибек
+                            Байрамович
+                        </h2>
+                    </div>
+                </div>
+            </a>
+            <a href="#">
+                <div class="room-item spec-item">
+                    <div class="room-item-img">
+                        <img src="img/main/Rectangle%20(2).png" alt="">
+                    </div>
+                    <div class="room-item-caption">
+                        <h2>
+                            Ахметов Алибек
+                            Байрамович
+                        </h2>
+                    </div>
+                </div>
+            </a>
+            <a href="#">
+                <div class="room-item spec-item">
+                    <div class="room-item-img">
+                        <img src="img/main/Rectangle%20(2).png" alt="">
+                    </div>
+                    <div class="room-item-caption">
+                        <h2>
+                            Ахметов Алибек
+                            Байрамович
+                        </h2>
+                    </div>
+                </div>
+            </a>
+            <a href="#">
+                <div class="room-item spec-item">
+                    <div class="room-item-img">
+                        <img src="img/main/Rectangle%20(2).png" alt="">
+                    </div>
+                    <div class="room-item-caption">
+                        <h2>
+                            Ахметов Алибек
+                            Байрамович
+                        </h2>
+                    </div>
+                </div>
+            </a>
+            <a href="#">
+                <div class="room-item spec-item">
+                    <div class="room-item-img">
+                        <img src="img/main/Rectangle%20(2).png" alt="">
+                    </div>
+                    <div class="room-item-caption">
+                        <h2>
+                            Ахметов Алибек
+                            Байрамович
+                        </h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+<section class="gallery-box selector1">
+    <div class="container">
+        <a href="#">
+            <div class="gallery-item gallery-item-type-1 mr30 item" data-src="img/main/Rectangle.png">
+                <img src="img/main/Rectangle.png" alt="">
+            </div>
+        </a>
+        <a href="#">
+            <div class="gallery-item gallery-item-type-2 mr30 item" data-src="img/main/Rectangle%202.png">
+                <img src="img/main/Rectangle%202.png" alt="">
+            </div>
+        </a>
+        <a href="#" class="hidden-xs">
+            <div class="gallery-item gallery-item-type-3" data-src="img/main/Rectangle.png">
+                <img src="img/main/Rectangle%202.png" alt="">
+            </div>
+        </a>
+        <a href="#" class="hidden-xs">
+            <div class="gallery-item gallery-item-type-4 mr30 item" data-src="img/main/Rectangle%202.png">
+                <img src="img/main/Rectangle%202.png" alt="">
+            </div>
+        </a>
+        <a href="#" class="hidden-xs">
+            <div class="gallery-item gallery-item-type-5 mr30 item" data-src="img/main/Rectangle%202.png">
+                <img src="img/main/Rectangle%202.png" alt="">
+            </div>
+        </a>
+        <a href="#" class="hidden-xs">
+            <div class="gallery-item gallery-item-type-6 mr30 item" data-src="img/main/Rectangle%202.png">
+                <img src="img/main/Rectangle%202.png" alt="">
+            </div>
+        </a>
+        <a href="#" class="hidden-xs hidden-sm">
+            <div class="gallery-item gallery-item-type-6 item" data-src="img/main/Rectangle%202.png">
+                <img src="img/main/Rectangle%202.png" alt="">
+            </div>
+        </a>
+        <div class="clearfix"></div>
+        <div class="gallery-all hidden-md hidden-lg">
+            <a href="#">Смотреть все фотографии</a>
+            <a href="#"><i class="icon i-arrow-big"></i></a>
+        </div>
+    </div>
+</section>
+<section class="review">
+    <div class="container">
+        <div class="block-cover"><h2 class="block-title-bordered">Отзывы</h2></div>
+        <div class="sl-review">
+            <div class="review-item">
+                <p>
+                    С 1994 года на территории здравницы пробурена питьевая лечебная минеральная вода,которая является
+                    аналогом минеральной воды источника «Смирновский» — санаторий Железноводска, применяемая для лечения
+                    внутренних зааболеваний и получившая достойную оценку среди отдыхающих и больных.
+                </p>
+                <span>Ахметов Алибек</span>
+            </div>
+            <div class="review-item">
+                <p>
+                    С 1994 года на территории здравницы пробурена питьевая лечебная минеральная вода,которая является
+                    аналогом минеральной воды источника «Смирновский» — санаторий Железноводска, применяемая для лечения
+                    внутренних зааболеваний и получившая достойную оценку среди отдыхающих и больных.
+                </p>
+                <span>Ахметов Алибек</span>
+            </div>
+            <div class="review-item">
+                <p>
+                    С 1994 года на территории здравницы пробурена питьевая лечебная минеральная вода,которая является
+                    аналогом минеральной воды источника «Смирновский» — санаторий Железноводска, применяемая для лечения
+                    внутренних зааболеваний и получившая достойную оценку среди отдыхающих и больных.
+                </p>
+                <span>Ахметов Алибек</span>
+            </div>
+        </div>
+    </div>
+</section>
+<footer class="bg-dark-blue">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-3">
+                <div class="logo">
+                    <a href="index.html" class="logo-box">
+                        <img src="img/logo/logo.png" alt="logo">
+                    </a>
+                </div>
+                <h3 class="block-title-md">Мы в социальных сетях</h3>
+                <ul class="social-link">
+                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#"><i class="fab fa-vk"></i></a></li>
+                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-3">
+                <h3 class="title-border">МЕНЮ</h3>
+                <ul class="footer-menu">
+                    <li><a href="#">Галерея</a></li>
+                    <li><a href="#"> Номера</a></li>
+                    <li><a href="#">О санатории</a></li>
+                    <li><a href="#">Услуги</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-3">
+                <h3 class="title-border">СВЯЖИТЕСЬ С НАМИ</h3>
+                <ul class="footer-menu">
+                    <li><a href="#">8 (771) 098 7777</a></li>
+                    <li><a href="#">Контакты</a></li>
+                    <li><a href="#">info@zhanakorgan.com</a></li>
+                    <li><a href="#">Почта для обратной связи</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-3">
+                <div class="copyright">
+                    <p>
+                        Пользовательское соглашение<br>
+                        Политика конфиденциальности<br>
+                        2019 @zhanakorgan<br>
+                        Сайт разработан в студии <a href="https://bgpro.kz/" target="_blank">BG PRO</a>
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="js/libs.min.js"></script>
+<script src="slick/slick.js"></script>
+<script src="js/moment.min.js"></script>
+<script src="js/daterangepicker.js"></script>
+<script>
+    $('.datetime-picker').daterangepicker({
+        singleDatePicker: true,
+        "showDropdowns": true,
+        showDropdowns: true,
+        "locale": {
+            "format": "DD/MM/YYYY",
+            "separator": "-",
+        }
+    });
+    $('.sl-review').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        arrows: true,
+        dots: true,
+        customPaging: function (slider, i) {
+            var thumb = $(slider.$slides[i]).data();
+            if (i < 10) {
+                return '<a>' + 0 + (i + 1) + '</a>';
+            }
+            else {
+                return '<a>' + i + '</a>';
+            }
+
+        },
+    });
+    $('.sl-spec').slick({
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        arrows: true,
+        centerMode: false,
+        responsive: [
+            {
+                breakpoint: 1190,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1
+                }
+            },
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    centerMode: true
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    centerMode: true,
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+            // You can unslick at a given breakpoint now by adding:
+            // settings: "unslick"
+            // instead of a settings object
+        ]
+    });
+</script>
+<script src="js/lightgallery.min.js"></script>
+<script src="js/lg-fullscreen.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.selector1').lightGallery({
+            selector: '.item'
+        });
+    });
+</script>
+<script src="js/common.js"></script>
+</body>
+</html>

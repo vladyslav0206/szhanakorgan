@@ -1,0 +1,7 @@
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:25 .
+drwxr-xr-x   7 v-20159  psacln       4096 May 30 17:25 ..
+-rw-r--r--   1 v-20159  psacln        618 May 30 17:25 AppServiceProvider.php
+-rw-r--r--   1 v-20159  psacln        605 May 30 17:25 AuthServiceProvider.php
+-rw-r--r--   1 v-20159  psacln        569 May 30 17:25 BroadcastServiceProvider.php
+-rw-r--r--   1 v-20159  psacln        632 May 30 17:25 EventServiceProvider.php
+-rw-r--r--   1 v-20159  psacln       3808 May 30 17:25 RouteServiceProvider.php

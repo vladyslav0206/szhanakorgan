@@ -1,0 +1,7 @@
+drwxr-xr-x   6 v-20159  psacln       4096 May 30 17:54 .
+drwxr-xr-x   5 v-20159  psacln       4096 May 30 17:54 ..
+drwxr-xr-x  20 v-20159  psacln       4096 May 30 17:54 admin
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:54 errors
+drwxr-xr-x   4 v-20159  psacln       4096 May 30 17:54 index
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:54 vendor
+-rw-r--r--   1 v-20159  psacln       2819 May 30 17:54 welcome.blade.php

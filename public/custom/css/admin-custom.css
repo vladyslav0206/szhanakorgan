@@ -1,0 +1,115 @@
+.ajax-loader {
+    background-image: url("/custom/image/ajax-loader.gif");
+    background-size: 60px 60px;
+    border-radius: 60px;
+    display: none;
+    height: 60px;
+    left: 50%;
+    margin-left: -30px;
+    margin-top: -30px;
+    position: fixed;
+    top: 50%;
+    width: 60px;
+    z-index: 1000;
+}
+.menu-tab {
+    color: #333333;
+}
+.active-page {
+    background-color: #3C8DBC;
+    border-radius: 8px;
+    color: white !important;
+    padding: 3px 11px;
+}
+.box-title-first {
+    margin-top: 5px !important;
+    margin-right: 30px !important;
+}
+.box-title-second {
+    margin-top: 5px !important;
+}
+.box-add-btn {
+    margin-bottom: 10px !important;
+}
+.clear-float {
+    clear: both;
+}
+.active-paginator a {
+    font-weight: bold;
+    background: #EEEEEE !important;
+}
+.search-btn {
+    padding-top: 25px !important;
+}
+.box-edit-click {
+    margin-top: 5px !important;
+    margin-right: 30px !important;
+    margin-bottom: 0px !important;
+}
+.box-edit-click a {
+    text-decoration: underline !important;
+    font-size: 17px !important;
+    color: rgb(248, 23, 23) !important;
+}
+.box-delete-click {
+    margin-top: 5px !important;
+    margin-bottom: 0px !important;
+}
+.box-delete-click a {
+    text-decoration: underline !important;
+    font-size: 17px !important;
+    color: rgb(248, 23, 23) !important;
+}
+.image-form {
+    text-align: center; border-radius: 50%; height: 40px; width: 40px; padding: 4px 0px 0px; background-color: rgb(181, 227, 242); border-color: rgb(181, 227, 242); margin: 0px auto; color: white; font-size: 23px;
+}
+.image-form input {
+    opacity: 0; position: absolute; border-radius: 50%; width: 40px; height: 40px; margin-top: -37px; cursor: pointer;
+}
+.object-name {
+    color: rgb(30, 111, 158);
+    text-decoration: underline;
+}
+.object-image {
+    float:left;
+    padding: 2px;
+    border-radius: 5px;
+    border: 1px solid #afafaf;
+    margin-right: 20px;
+    margin-left: 15px;
+}
+.object-image img {
+    max-width: 200px;
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+}
+.bootstrap-select > .dropdown-toggle, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default {
+    background-color: white !important;
+}
+.online-order .last-time-td{
+    background-color: #1ca968 !important;
+}
+.pause-order .last-time-td{
+    background-color: #FCB04B !important;
+}
+.stop-order .last-time-td{
+    background-color: #E3431B !important;
+}
+.margin-top-15 {
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.delivery-checkbox {
+    padding-right: 10px;
+}
+.clear-float {
+    clear: both;
+}
+.left-float {
+    float: left;
+}
+.notice-icon {
+    background-color: #fd3a3a !important;
+    display: none;
+}

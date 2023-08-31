@@ -1,0 +1,14 @@
+drwxr-xr-x   6 v-20159  psacln       4096 May 30 17:17 .
+drwxr-xr-x  26 v-20159  psacln       4096 May 30 17:19 ..
+-rw-r--r--   1 v-20159  psacln      44082 May 30 17:17 CHANGES.md
+-rw-r--r--   1 v-20159  psacln      68193 May 30 17:17 LICENSE.md
+-rw-r--r--   1 v-20159  psacln       1383 May 30 17:16 README.md
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:17 adapters
+-rw-r--r--   1 v-20159  psacln       2451 May 30 17:16 build-config.js
+-rw-r--r--   1 v-20159  psacln     460853 May 30 17:17 ckeditor.js
+-rw-r--r--   1 v-20159  psacln       1359 May 30 17:17 config.js
+-rw-r--r--   1 v-20159  psacln       1850 May 30 17:16 contents.css
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:17 lang
+drwxr-xr-x  16 v-20159  psacln       4096 May 30 17:17 plugins
+drwxr-xr-x   3 v-20159  psacln       4096 May 30 17:17 skins
+-rw-r--r--   1 v-20159  psacln       3594 May 30 17:16 styles.js

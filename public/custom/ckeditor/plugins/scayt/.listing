@@ -1,0 +1,7 @@
+drwxr-xr-x   4 v-20159  psacln       4096 May 30 17:21 .
+drwxr-xr-x  30 v-20159  psacln       4096 May 30 17:23 ..
+-rw-r--r--   1 v-20159  psacln       1451 May 30 17:21 CHANGELOG.md
+-rw-r--r--   1 v-20159  psacln       1476 May 30 17:21 LICENSE.md
+-rw-r--r--   1 v-20159  psacln        979 May 30 17:21 README.md
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:21 dialogs
+drwxr-xr-x   3 v-20159  psacln       4096 May 30 17:21 skins

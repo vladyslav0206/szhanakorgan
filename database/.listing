@@ -1,0 +1,7 @@
+drwxr-xr-x   5 v-20159  psacln       4096 May 30 17:24 .
+drwxr-xr-x  14 v-20159  psacln       4096 May 30 17:54 ..
+-rw-r--r--   1 v-20159  psacln         10 May 30 17:24 .gitignore
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:24 factories
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:24 migrations
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:24 seeds
+-rw-r--r--   1 v-20159  psacln    1574516 May 30 17:24 taima_kz.sql

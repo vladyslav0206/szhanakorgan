@@ -1,0 +1,4 @@
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:54 .
+drwxr-xr-x  20 v-20159  psacln       4096 May 30 17:54 ..
+-rw-r--r--   1 v-20159  psacln       5579 May 30 17:54 banner-edit.blade.php
+-rw-r--r--   1 v-20159  psacln       5386 May 30 17:54 banner.blade.php

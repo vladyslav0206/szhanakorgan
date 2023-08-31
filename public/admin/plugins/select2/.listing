@@ -1,0 +1,9 @@
+drwxr-xr-x   3 v-20159  psacln       4096 May 30 17:16 .
+drwxr-xr-x  26 v-20159  psacln       4096 May 30 17:19 ..
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:16 i18n
+-rw-r--r--   1 v-20159  psacln      17493 May 30 17:16 select2.css
+-rw-r--r--   1 v-20159  psacln     158364 May 30 17:16 select2.full.js
+-rw-r--r--   1 v-20159  psacln      71174 May 30 17:16 select2.full.min.js
+-rw-r--r--   1 v-20159  psacln     137751 May 30 17:16 select2.js
+-rw-r--r--   1 v-20159  psacln      14909 May 30 17:16 select2.min.css
+-rw-r--r--   1 v-20159  psacln      62835 May 30 17:16 select2.min.js

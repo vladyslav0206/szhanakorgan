@@ -1,0 +1,5 @@
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:54 .
+drwxr-xr-x  20 v-20159  psacln       4096 May 30 17:54 ..
+-rw-r--r--   1 v-20159  psacln       1796 May 30 17:54 app.blade.php
+-rw-r--r--   1 v-20159  psacln       5786 May 30 17:54 layout.blade.php
+-rw-r--r--   1 v-20159  psacln       2513 May 30 17:54 sidebar.blade.php

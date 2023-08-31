@@ -1,0 +1,15 @@
+drwxr-xr-x   2 v-20159  psacln       4096 Sep 24 12:37 .
+drwxr-xr-x  15 v-20159  psacln       4096 Sep 24 12:37 ..
+-rw-r--r--   1 v-20159  psacln        550 Sep 24 12:37 .env
+-rw-r--r--   1 v-20159  psacln        491 Sep 24 12:37 .env.example
+-rw-r--r--   1 v-20159  psacln         61 Sep 24 12:37 .gitattributes
+-rw-r--r--   1 v-20159  psacln         95 Sep 24 12:37 .gitignore
+-rw-r--r--   1 v-20159  psacln         95 Sep 24 12:37 .htaccess
+-rw-r--r--   1 v-20159  psacln       1646 Sep 24 12:37 artisan
+-rw-r--r--   1 v-20159  psacln       1404 Sep 24 12:37 composer.json
+-rw-r--r--   1 v-20159  psacln     136165 Sep 24 12:37 composer.lock
+-rw-r--r--   1 v-20159  psacln        560 Sep 24 12:37 gulpfile.js
+-rw-r--r--   1 v-20159  psacln        420 Sep 24 12:37 package.json
+-rw-r--r--   1 v-20159  psacln        930 Sep 24 12:37 phpunit.xml
+-rw-r--r--   1 v-20159  psacln       2946 Sep 24 12:37 readme.md
+-rw-r--r--   1 v-20159  psacln        563 Sep 24 12:37 server.php

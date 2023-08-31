@@ -1,0 +1,5 @@
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:21 .
+drwxr-xr-x   6 v-20159  psacln       4096 May 30 17:21 ..
+-rw-r--r--   1 v-20159  psacln      24562 May 30 17:21 JSON.php
+-rw-r--r--   1 v-20159  psacln       4197 May 30 17:21 file_manager_json.php
+-rw-r--r--   1 v-20159  psacln       3868 May 30 17:21 upload_json.php

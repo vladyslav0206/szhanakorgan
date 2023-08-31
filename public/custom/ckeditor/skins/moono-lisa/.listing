@@ -1,0 +1,15 @@
+drwxr-xr-x   3 v-20159  psacln       4096 May 30 17:23 .
+drwxr-xr-x   3 v-20159  psacln       4096 May 30 17:23 ..
+-rw-r--r--   1 v-20159  psacln      13570 May 30 17:23 dialog.css
+-rw-r--r--   1 v-20159  psacln      14481 May 30 17:23 dialog_ie.css
+-rw-r--r--   1 v-20159  psacln      14964 May 30 17:23 dialog_ie8.css
+-rw-r--r--   1 v-20159  psacln      14510 May 30 17:23 dialog_iequirks.css
+-rw-r--r--   1 v-20159  psacln      45673 May 30 17:23 editor.css
+-rw-r--r--   1 v-20159  psacln      45754 May 30 17:23 editor_gecko.css
+-rw-r--r--   1 v-20159  psacln      46672 May 30 17:23 editor_ie.css
+-rw-r--r--   1 v-20159  psacln      47478 May 30 17:23 editor_ie8.css
+-rw-r--r--   1 v-20159  psacln      47321 May 30 17:23 editor_iequirks.css
+-rw-r--r--   1 v-20159  psacln      12121 May 30 17:23 icons.png
+-rw-r--r--   1 v-20159  psacln      39362 May 30 17:23 icons_hidpi.png
+drwxr-xr-x   3 v-20159  psacln       4096 May 30 17:23 images
+-rw-r--r--   1 v-20159  psacln       2282 May 30 17:23 readme.md

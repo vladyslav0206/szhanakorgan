@@ -1,0 +1,15 @@
+drwxr-xr-x  11 v-20159  psacln       4096 May 30 17:23 .
+drwxr-xr-x  14 v-20159  psacln       4096 May 30 17:54 ..
+-rw-r--r--   1 v-20159  psacln        573 May 30 17:15 .htaccess
+drwxr-xr-x   6 v-20159  psacln       4096 May 30 17:19 admin
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:15 css
+drwxr-xr-x   8 v-20159  psacln       4096 May 30 17:23 custom
+drwxr-xr-x   3 v-20159  psacln       4096 May 30 17:23 fonts
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:19 images
+drwxr-xr-x   6 v-20159  psacln       4096 May 30 17:23 img
+-rw-r--r--   1 v-20159  psacln       1840 May 30 17:15 index.php
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:23 js
+-rw-r--r--   1 v-20159  psacln         88 May 30 17:15 robots.txt
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:23 share42
+drwxr-xr-x   8 v-20159  psacln       4096 May 30 17:20 styles
+-rw-r--r--   1 v-20159  psacln        937 May 30 17:15 web.config

@@ -1,0 +1,4 @@
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:54 .
+drwxr-xr-x  20 v-20159  psacln       4096 May 30 17:54 ..
+-rw-r--r--   1 v-20159  psacln      11073 May 30 17:54 rubric-edit.blade.php
+-rw-r--r--   1 v-20159  psacln       4969 May 30 17:54 rubric.blade.php

@@ -1,0 +1,14 @@
+drwxr-xr-x   2 v-20159  psacln       4096 May 30 17:54 .
+drwxr-xr-x   4 v-20159  psacln       4096 May 30 17:54 ..
+-rw-r--r--   1 v-20159  psacln       6971 May 30 17:54 book.blade.php
+-rw-r--r--   1 v-20159  psacln       6029 May 30 17:54 contacts.blade.php
+-rw-r--r--   1 v-20159  psacln       4335 May 30 17:54 gallery.blade.php
+-rw-r--r--   1 v-20159  psacln      12488 May 30 17:54 index.blade.php
+-rw-r--r--   1 v-20159  psacln       2188 May 30 17:54 leisure.blade.php
+-rw-r--r--   1 v-20159  psacln       2845 May 30 17:54 page.blade.php
+-rw-r--r--   1 v-20159  psacln       3616 May 30 17:54 rooms.blade.php
+-rw-r--r--   1 v-20159  psacln       1585 May 30 17:54 service.blade.php
+-rw-r--r--   1 v-20159  psacln       2006 May 30 17:54 services.blade.php
+-rw-r--r--   1 v-20159  psacln       1578 May 30 17:54 specialist.blade.php
+-rw-r--r--   1 v-20159  psacln       3946 May 30 17:54 toktamys.blade.php
+-rw-r--r--   1 v-20159  psacln       3224 May 30 17:54 treatment.blade.php

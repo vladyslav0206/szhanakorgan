@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin
+Disallow: /ajax
+Disallow: /search
+Disallow: /cron
+

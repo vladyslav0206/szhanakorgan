@@ -1,0 +1,154 @@
+{{ Request::header('Content-Type : text/xml') }}
+<?php echo '<?xml version="1.0" encoding="UTF-8"?>'; ?>
+
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://szhanakorgan.kz/</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/page/about/8</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/page/treatment/12</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/book</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/gallery</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/rooms</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/services</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/leisure</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/toktamys</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/contacts</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/specialist/2</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/specialist/6</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/specialist/7</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/specialist/8</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/specialist/9</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/service/5</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/service/6</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/service/7</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/service/8</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/service/9</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/service/10</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/service/11</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/service/12</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/service/13</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/service/14</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/service/15</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/service/16</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://szhanakorgan.kz/service/17</loc>
+  <lastmod>2019-06-06T04:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

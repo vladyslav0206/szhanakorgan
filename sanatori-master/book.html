@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width"/>
+    <title>Book</title>
+    <link rel="stylesheet" href="css/libs.min.css">
+    <link rel="stylesheet" href="css/all.css">
+    <link rel="stylesheet" href="css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="css/daterangepicker.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon.ico">
+</head>
+<body>
+<header class="bg-dark-blue">
+    <div class="container">
+        <div class="row">
+            <div class="header">
+                <div class="navbar-header hidden-lg hidden-md">
+                    <button type="button" class="navbar-toggle call-menu">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="logo">
+                    <a href="index.html" class="logo-box">
+                        <img src="img/logo/logo.png" alt="logo">
+                    </a>
+                </div>
+                <div class="nav-mobile bg-dark-blue">
+                    <div class="nav-mobile-top">
+                        <div class="logo visible-xs visible-sm">
+                            <a href="index.html" class="logo-box">
+                                <img src="img/logo/logo.png" alt="logo">
+                            </a>
+                        </div>
+                        <button class="close-menu btn-plain hidden-md hidden-lg">
+                            <img src="img/icon/close.png" alt="">
+                        </button>
+                    </div>
+                    <ul class="m-menu">
+                        <li><a href="index.html">Главная</a></li>
+                        <li><a href="book.html">Бронирование</a></li>
+                        <li><a href="gallery.html">Галерея</a></li>
+                        <li><a href="room.html">Номера</a></li>
+                        <li><a href="about.html">О санатории</a></li>
+                        <li><a href="service.html">Услуги</a></li>
+                        <li><a href="leisure.html">Досуг</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<section class="booking-box book">
+    <div class="container">
+        <div class="block-cover"><h2 class="block-title-bordered">Бронирование</h2></div>
+        <div class="booking-cover">
+            <form action="#" class="book-form">
+                <div class="book-item">
+                    <span>Дата заезда</span>
+                    <input type="text" name="" class="datetime-picker" value="01/06/2019">
+                </div>
+                <div class="book-item">
+                    <span>Дата заезда</span>
+                    <input type="text" name="" class="datetime-picker" value="05/06/2019">
+                </div>
+                <div class="book-item">
+                    <span>Количество человек</span>
+                    <select name="" class="select-item">
+                        <option>1</option>
+                        <option>1</option>
+                        <option>1</option>
+                    </select>
+                </div>
+                <div class="book-item">
+                    <span>Категория</span>
+                    <select name="" class="select-item">
+                        <option>Люкс</option>
+                        <option>Люкс</option>
+                        <option>Люкс</option>
+                    </select>
+                </div>
+                <button class="btn-plain btn-book">
+                    Забронировать
+                </button>
+            </form>
+        </div>
+        <div class="book-cover">
+            <div class="table-responsive">
+                <table class="table-book">
+                    <thead>
+                    <th>Вы выбрали</th>
+                    <th>Номер</th>
+                    <th>Описание</th>
+                    <th>Стоимость</th>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>10 дней</td>
+                        <td>Люкс</td>
+                        <td>
+                            <ul class="room-desc-list">
+                                <li>- спальная и гостиная</li>
+                                <li>- телевизор</li>
+                                <li>- холодильник</li>
+                                <li>- посуда</li>
+                                <li>- сан. узел</li>
+                                <li>- Wi-Fi</li>
+                                <li>- 4-х разовое питание</li>
+                            </ul>
+                        </td>
+                        <td>15 000 тг</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+            <h3>Заполните личные данные</h3>
+            <form action="#" class="info-form">
+                <h3>1 гость</h3>
+                <div class="row">
+                    <div class="col-md-6 col-sm-6">
+                        <div class="info-item">
+                            <p>Имя</p>
+                            <input type="text" name="#" placeholder="Имя">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                        <div class="info-item">
+                            <p>Фамилия</p>
+                            <input type="text" name="#" placeholder="Фамилия">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                        <div class="info-item">
+                            <p>Имя</p>
+                            <input type="text" name="#" placeholder="Имя">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                        <div class="info-item">
+                            <p>Фамилия</p>
+                            <input type="text" name="#" placeholder="Фамилия">
+                        </div>
+                    </div>
+                </div>
+                <button class="btn-plain btn-book">
+                    Забронировать
+                </button>
+            </form>
+        </div>
+    </div>
+</section>
+<footer class="bg-dark-blue">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-3">
+                <div class="logo">
+                    <a href="index.html" class="logo-box">
+                        <img src="img/logo/logo.png" alt="logo">
+                    </a>
+                </div>
+                <h3 class="block-title-md">Мы в социальных сетях</h3>
+                <ul class="social-link">
+                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#"><i class="fab fa-vk"></i></a></li>
+                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-3">
+                <h3 class="title-border">МЕНЮ</h3>
+                <ul class="footer-menu">
+                    <li><a href="#">Галерея</a></li>
+                    <li><a href="#"> Номера</a></li>
+                    <li><a href="#">О санатории</a></li>
+                    <li><a href="#">Услуги</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-3">
+                <h3 class="title-border">СВЯЖИТЕСЬ С НАМИ</h3>
+                <ul class="footer-menu">
+                    <li><a href="#">8 (771) 098 7777</a></li>
+                    <li><a href="#">Контакты</a></li>
+                    <li><a href="#">info@zhanakorgan.com</a></li>
+                    <li><a href="#">Почта для обратной связи</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-3">
+                <div class="copyright">
+                    <p>
+                        Пользовательское соглашение<br>
+                        Политика конфиденциальности<br>
+                        2019 @zhanakorgan<br>
+                        Сайт разработан в студии <a href="https://bgpro.kz/" target="_blank">BG PRO</a>
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="js/libs.min.js"></script>
+<script src="js/moment.min.js"></script>
+<script src="js/daterangepicker.js"></script>
+<script>
+    $('.datetime-picker').daterangepicker({
+        singleDatePicker: true,
+        "showDropdowns": true,
+        showDropdowns: true,
+        "locale": {
+            "format": "DD/MM/YYYY",
+            "separator": "-",
+        }
+    });
+</script>
+<script src="js/common.js"></script>
+</body>
+</html>
